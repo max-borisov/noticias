@@ -1,4 +1,4 @@
-IT
+GIT
   remote: git://github.com/bbatsov/rubocop.git
   revision: 429153801d1922bd7f2cc8ab577374cea7017630
   specs:
