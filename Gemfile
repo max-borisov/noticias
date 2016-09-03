@@ -6,6 +6,8 @@ gem 'better_errors', group: [:development]
 gem 'binding_of_caller', group: [:development]
 gem 'bootstrap-sass'
 gem 'brakeman', require: false, group: [:development, :test]
+gem 'awesome_print', group: [:development, :test]
+gem 'spring-commands-rspec', group: [:test]
 gem 'byebug', group: [:development, :test], platform: :mri
 gem 'bullet', group: [:development]
 gem 'coffee-rails', '~> 4.2'
